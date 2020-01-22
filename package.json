@@ -12,5 +12,6 @@
     "testing"
   ],
   "author": "Saikrishna Vinnakota",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/vvnsk/console-test-runner"
 }
