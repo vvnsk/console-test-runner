@@ -1,0 +1,16 @@
+{
+  "name": "console-test-runner",
+  "version": "0.0.1",
+  "description": "This package runs test cases on a given method and console logs the result.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "testing"
+  ],
+  "author": "Saikrishna Vinnakota",
+  "license": "MIT"
+}
